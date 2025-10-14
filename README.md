@@ -33,14 +33,14 @@ A beautiful and interactive desktop application for converting text to Morse cod
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/morse-code-converter.git
-   cd morse-code-converter
+   git clone https://github.com/xsoltanx/MorseCode-Converter.git
+   cd MorseCode-Converter
    ```
 
 2.   **Run the application**
 
 ```bash
-python Morse_Code_Converter.py
+python MorseCode-Converter.py
 ```
 The application will automatically install any required dependencies on first run!
 
