@@ -95,8 +95,8 @@ The application will automatically install any required dependencies on first ru
 
 ## 📸 Screenshots
 
-|*Main Menu | Text Conversion |	Morse Decoding* |
-|-----------|-----------------|------------------|
+|Main Menu | Text Conversion |	Morse Decoding |
+|----------|-----------------|------------------|
 |![Screenshot of a main menu.](https://github.com/xsoltanx/MorseCode-Converter/blob/main/assets/ScreenShots/Shot-1.png)| ![Screenshot of a Text Conversion menu.](https://github.com/xsoltanx/MorseCode-Converter/blob/main/assets/ScreenShots/Shot-2.png) | ![Screenshot of a Morse Decoding menu.](https://github.com/xsoltanx/MorseCode-Converter/blob/main/assets/ScreenShots/Shot-3.png)
 
 ### 🎨 Features in Detail
