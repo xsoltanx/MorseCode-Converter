@@ -40,7 +40,7 @@ A beautiful and interactive desktop application for converting text to Morse cod
 2.   **Run the application**
 
 ```bash
-python MorseCode-Converter.py
+python Morse_Code_Converter.py
 ```
 The application will automatically install any required dependencies on first run!
 
