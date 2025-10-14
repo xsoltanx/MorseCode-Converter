@@ -97,7 +97,7 @@ The application will automatically install any required dependencies on first ru
 
 |*Main Menu | Text Conversion |	Morse Decoding* |
 |-----------|-----------------|------------------|
-|![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]((https://github.com/xsoltanx/MorseCode-Converter/blob/main/assets/ScreenShots/Shot-1.png))|
+|![Screenshot of a main menu.](https://github.com/xsoltanx/MorseCode-Converter/blob/main/assets/ScreenShots/Shot-1.png)| ![Screenshot of a Text Conversion menu.](https://github.com/xsoltanx/MorseCode-Converter/blob/main/assets/ScreenShots/Shot-2.png) | ![Screenshot of a Morse Decoding menu.](https://github.com/xsoltanx/MorseCode-Converter/blob/main/assets/ScreenShots/Shot-3.png)
 
 ### 🎨 Features in Detail
 #### Smart Installation
